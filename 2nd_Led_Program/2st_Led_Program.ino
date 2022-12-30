@@ -1,7 +1,7 @@
 /* 
 My_1st Led Blink Code
- *  Name = HEX
- *  Youtube = THE_HEX
+ *  Name = Subhadip
+ *  Youtube = The Hextronics
  *  Date = 1/Oct/2022
  *  Time = 7:51 PM
  *  loca = INDIA
